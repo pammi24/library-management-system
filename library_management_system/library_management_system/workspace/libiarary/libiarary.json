@@ -1,0 +1,77 @@
+{
+ "app": "Library Management System",
+ "charts": [],
+ "content": "[{\"id\":\"olXHeQUb1W\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Libiarary</span>\",\"col\":12}},{\"id\":\"blx5bNBkbA\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Library Member\",\"col\":4}},{\"id\":\"YvyK7eQIC6\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Library Settings\",\"col\":3}},{\"id\":\"E6v-yyLveb\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Library Membership\",\"col\":5}},{\"id\":\"aANoKELFOy\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Library Member\",\"col\":3}},{\"id\":\"jPnWcC0c51\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Library Transaction\",\"col\":3}},{\"id\":\"ElOL3POzfG\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Article\",\"col\":3}}]",
+ "creation": "2025-05-01 22:17:51.591298",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "notebook-text",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Libiarary",
+ "link_type": "DocType",
+ "links": [],
+ "modified": "2025-05-01 22:23:33.748740",
+ "modified_by": "Administrator",
+ "module": "Library Management System",
+ "name": "Libiarary",
+ "number_cards": [
+  {
+   "label": "Library Member",
+   "number_card_name": "Total Members"
+  }
+ ],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 1.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Library Settings",
+   "link_to": "Library Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Library Membership",
+   "link_to": "Library Membership",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Library Member",
+   "link_to": "Library Member",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Library Transaction",
+   "link_to": "Library Transaction",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Article",
+   "link_to": "Article",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "Libiarary",
+ "type": "Workspace"
+}
