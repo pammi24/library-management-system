@@ -1,7 +1,11 @@
 {
- "app": "Library Management System",
- "charts": [],
- "content": "[{\"id\":\"olXHeQUb1W\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Libiarary</span>\",\"col\":12}},{\"id\":\"blx5bNBkbA\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Library Member\",\"col\":4}},{\"id\":\"YvyK7eQIC6\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Library Settings\",\"col\":3}},{\"id\":\"E6v-yyLveb\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Library Membership\",\"col\":5}},{\"id\":\"aANoKELFOy\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Library Member\",\"col\":3}},{\"id\":\"jPnWcC0c51\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Library Transaction\",\"col\":3}},{\"id\":\"ElOL3POzfG\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Article\",\"col\":3}}]",
+ "charts": [
+  {
+   "chart_name": "Members by gender",
+   "label": "Members by gender"
+  }
+ ],
+ "content": "[{\"id\":\"olXHeQUb1W\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Libiarary</span>\",\"col\":12}},{\"id\":\"blx5bNBkbA\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Library Member\",\"col\":4}},{\"id\":\"YvyK7eQIC6\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Library Settings\",\"col\":3}},{\"id\":\"E6v-yyLveb\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Library Membership\",\"col\":5}},{\"id\":\"aANoKELFOy\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Library Member\",\"col\":3}},{\"id\":\"jPnWcC0c51\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Library Transaction\",\"col\":3}},{\"id\":\"ElOL3POzfG\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Article\",\"col\":3}},{\"id\":\"R-pXPvR-5G\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Members by gender\",\"col\":12}}]",
  "creation": "2025-05-01 22:17:51.591298",
  "custom_blocks": [],
  "docstatus": 0,
@@ -13,9 +17,8 @@
  "indicator_color": "green",
  "is_hidden": 0,
  "label": "Libiarary",
- "link_type": "DocType",
  "links": [],
- "modified": "2025-05-01 22:23:33.748740",
+ "modified": "2025-05-10 19:09:38.329016",
  "modified_by": "Administrator",
  "module": "Library Management System",
  "name": "Libiarary",
@@ -72,6 +75,5 @@
    "type": "DocType"
   }
  ],
- "title": "Libiarary",
- "type": "Workspace"
+ "title": "Libiarary"
 }

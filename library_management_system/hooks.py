@@ -4,7 +4,7 @@ app_publisher = "pammi kumari"
 app_description = "lms"
 app_email = "abc@gmail.com"
 app_license = "mit"
-
+app_logo_url = "/assets/library_management_system/images/logo.png"
 # Apps
 # ------------------
 

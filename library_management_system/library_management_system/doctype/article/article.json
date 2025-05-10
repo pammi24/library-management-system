@@ -67,7 +67,7 @@
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-05-01 21:46:55.362517",
+ "modified": "2025-05-10 18:22:06.846499",
  "modified_by": "Administrator",
  "module": "Library Management System",
  "name": "Article",
@@ -90,5 +90,14 @@
  "row_format": "Dynamic",
  "sort_field": "creation",
  "sort_order": "DESC",
- "states": []
+ "states": [
+  {
+   "color": "Red",
+   "title": "Issued"
+  },
+  {
+   "color": "Green",
+   "title": "Available"
+  }
+ ]
 }

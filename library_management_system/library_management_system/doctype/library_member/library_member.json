@@ -1,13 +1,14 @@
 {
  "actions": [],
  "allow_rename": 1,
- "autoname": "format:{first_name}-{last_name}-{####}",
+ "autoname": "format:Members-{####}",
  "creation": "2025-05-01 21:49:00.719580",
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
   "first_name",
   "last_name",
+  "gender",
   "full_name",
   "email_address",
   "phone"
@@ -42,12 +43,19 @@
    "fieldname": "phone",
    "fieldtype": "Phone",
    "label": "Phone"
+  },
+  {
+   "fieldname": "gender",
+   "fieldtype": "Link",
+   "label": "Gender",
+   "options": "Gender",
+   "reqd": 1
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-05-01 21:55:38.000072",
+ "modified": "2025-05-10 19:03:54.571093",
  "modified_by": "Administrator",
  "module": "Library Management System",
  "name": "Library Member",
